@@ -1,0 +1,19 @@
+Return-Path: <alert@paypalsecure-notice.com>
+Received: from mail.paypalsecure-notice.com (unknown [91.212.89.44])
+    by smtp.gmail.com with ESMTPS id h18si239102pgk.119.2025.11.15.10.18.42
+    for <user@example.com>
+    (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+    Sat, 15 Nov 2025 10:18:42 +0530
+Received-SPF: softfail (gmail.com: domain of alert@paypalsecure-notice.com does not designate 91.212.89.44 as permitted sender)
+Authentication-Results: mx.google.com;
+    spf=softfail (google.com: domain paypalsecure-notice.com not permitted) smtp.mailfrom=alert@paypalsecure-notice.com
+    dkim=none;
+    dmarc=fail (p=REJECT) header.from=paypalsecure-notice.com
+MIME-Version: 1.0
+Date: Sat, 15 Nov 2025 10:18:42 +0530
+Message-ID: <20251115101842.DEF456XYZ@mail.paypalsecure-notice.com>
+From: "PayPal Security" <alert@paypalsecure-notice.com>
+To: user@example.com
+Subject: Urgent: Unusual Activity Detected On Your PayPal Account
+Reply-To: noreply@paypal.com
+Content-Type: text/html; charset="UTF-8"

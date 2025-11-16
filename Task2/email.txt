@@ -1,0 +1,29 @@
+From: "PayPal Security" <alert@paypalsecure-notice.com>
+Reply-To: noreply@paypal.com
+To: user@example.com
+Subject: Urgent: Unusual Activity Detected On Your PayPal Account
+Date: Sat, 15 Nov 2025 10:18:42 +0530
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+
+<p>Dear Customer,</p>
+
+<p>We detected <b>unusual login activity</b> on your PayPal account from an unrecognized device. 
+Your account has been <b>temporarily limited</b> for your protection.</p>
+
+<p>To restore full access, please verify your identity immediately.</p>
+
+<p><a href="http://paypa1-verification-center.com/login">Verify Your Account Now</a></p>
+
+<p>If you do not complete verification within the next 12 hours, your account may be permanently restricted.</p>
+
+<p>Thank you,<br>
+PayPal Security Team</p>
+
+<p><small>Case ID: PP-498124</small></p>
+
+</body>
+</html>
