@@ -1,1 +1,3 @@
-
+I have learned how to analyze phishing emails by examining sender spoofing, authentication failures, and malicious link patterns.
+This project focuses on a PayPal phishing sample where I identified fake domains, failed SPF/DKIM/DMARC checks, and social engineering tactics.
+Through FPP, I documented all major red flags to help others detect and avoid credential-stealing attacks.
