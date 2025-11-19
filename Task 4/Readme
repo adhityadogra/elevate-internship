@@ -1,0 +1,1 @@
+I completed this task using UFW on Linux, where I checked the firewall status, listed existing rules, blocked port 23 to test traffic filtering, allowed SSH on port 22, and then removed the test rule. Through these steps, I learned how to manage firewall rules, understand how ports are controlled, and observe how a firewall filters and protects network traffic.
